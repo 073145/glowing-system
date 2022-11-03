@@ -1,1 +1,1 @@
-.
+https://core.telegram.org/bots
