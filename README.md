@@ -1,10 +1,10 @@
-✨ glowing-system: Hub de Conectividade e Sincronização de Dados
+## ✨ glowing-system: Hub de Conectividade e Sincronização de Dados
 "Bem-vindo ao glowing-system! Este repositório serve como um centro de conhecimento e protótipos para a complexa arte de integrar, sincronizar e gerenciar fluxos de dados de diversas fontes. Seja para monitorar redes sociais, coletar telemetria de dispositivos IoT ou agregar feeds de conteúdo, aqui você encontrará recursos e exemplos para construir sistemas conectados."
 
 
 ---
 
-🌟 Princípios Orientadores
+## 🌟 Princípios Orientadores
 Este projeto é guiado pelos seguintes princípios para construir sistemas de dados robustos e eficientes:
 
 Modularidade na Integração: Decompor a complexidade das APIs e feeds em módulos reutilizáveis e fáceis de adaptar.
@@ -20,7 +20,7 @@ Aprendizado Contínuo: Manter-se atualizado com as rápidas evoluções de plata
 
 ---
 
-🗺️ Estrutura Detalhada do Repositório
+## 🗺️ Estrutura Detalhada do Repositório
 O conteúdo está organizado em módulos temáticos que cobrem conceitos gerais de integração de dados e implementações específicas de plataformas.
 
 00-Core-Concepts-and-Utils/
@@ -71,7 +71,7 @@ Exemplos de projetos completos ou demonstrações de como os módulos podem ser 
 
 ---
 
-⚙️ Como Contribuir
+## ⚙️ Como Contribuir
 Contribuições são muito bem-vindas! Seja adicionando novos exemplos de integração, melhorando a documentação ou sugerindo novas categorias.
 
 Faça um fork do repositório.
