@@ -7,15 +7,15 @@
 ## 🌟 Princípios Orientadores
 Este projeto é guiado pelos seguintes princípios para construir sistemas de dados robustos e eficientes:
 
-Modularidade na Integração: Decompor a complexidade das APIs e feeds em módulos reutilizáveis e fáceis de adaptar.
+- Modularidade na Integração: Decompor a complexidade das APIs e feeds em módulos reutilizáveis e fáceis de adaptar.
 
-Automação e Sincronização: Foco em soluções que automatizam a coleta e mantêm os dados atualizados de forma confiável.
+- Automação e Sincronização: Foco em soluções que automatizam a coleta e mantêm os dados atualizados de forma confiável.
 
-Abordagem Multi-Plataforma: Explorar a conectividade com uma vasta gama de fontes, desde redes sociais populares até dispositivos IoT específicos.
+- Abordagem Multi-Plataforma: Explorar a conectividade com uma vasta gama de fontes, desde redes sociais populares até dispositivos IoT específicos.
 
-Resiliência a Falhas: Desenvolver sistemas capazes de lidar com as idiossincrasias e instabilidades de APIs externas.
+- Resiliência a Falhas: Desenvolver sistemas capazes de lidar com as idiossincrasias e instabilidades de APIs externas.
 
-Aprendizado Contínuo: Manter-se atualizado com as rápidas evoluções de plataformas e protocolos de dados.
+- Aprendizado Contínuo: Manter-se atualizado com as rápidas evoluções de plataformas e protocolos de dados.
 
 
 ---
